@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, my name is Tiago 👋
 
-<!--
-**tiagolima2005/tiagolima2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 I’m currently a student at IPCA
+- 📖 Playing with C at the moment
+- 😉 My pronouns are He/Him
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/tiagolima2005/tiagolima2005">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagolima2005&theme=merko&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolima2005&layout=compact&langs_count=16&theme=merko" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Tiago-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+</div>
