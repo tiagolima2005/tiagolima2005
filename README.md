@@ -6,7 +6,7 @@
 
 <div>
     <a href="https://github.com/tiagolima2005/tiagolima2005">
-        <img style="display: inline-block; margin-right: 20px;" height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagolima2005&theme=merko&show_icons=true"/><img style="display: inline-block;" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolima2005&layout=compact&langs_count=16&theme=merko"/>
+        <img style="display: inline-block; margin-right: 20px;" height="160em" src="https://github-readme-stats.vercel.app/api?username=tiagolima2005&theme=merko&show_icons=true"/><img style="display: inline-block;" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagolima2005&layout=compact&langs_count=16&theme=merko"/>
     </a>
 </div>
 
