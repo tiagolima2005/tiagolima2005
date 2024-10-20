@@ -2,7 +2,6 @@
 
 - 👨🏻‍🎓 I’m currently a student at IPCA
 - 📖 Playing with C at the moment
-- 😉 My pronouns are He/Him
 
 ##
 
